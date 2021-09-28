@@ -1,0 +1,25 @@
+
+body{
+  align-items: center;
+  background: rgb(26, 90, 109);
+  font-size: 20px;
+}
+
+.logo{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.container{
+  display:block ;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.input-text{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
